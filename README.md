@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Mahesh 👋
 
-<!--
-**MSBHOSLE/MSBHOSLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Data & Computer Science student at Heidelberg University, building practical AI tools and automation systems.
 
-Here are some ideas to get you started:
+**What I work on:**
+- 🤖 LLM-powered applications (OpenAI, HuggingFace Transformers)
+- ⚙️ Process automation & workflow tools (Python, FastAPI, Make, n8n)
+- 📊 Data analytics & dashboards (Power BI, Tableau, SQL)
+- 🧠 Machine Learning & Deep Learning (scikit-learn, TensorFlow, Keras)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects:**
+- 🎙️ [Audio Insight](link) — Real-time audio transcription & summarisation with OpenAI Whisper + FastAPI
+- 🕺 [Body Language Detection](link) — Real-time emotion detection with MediaPipe & Random Forest
+
+**Currently seeking:** Werkstudent role (10–15h/week) in AI & process automation in Heidelberg/Mannheim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mahesh-bhosle-916991198)
