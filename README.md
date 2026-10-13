@@ -57,20 +57,20 @@ class SoftwareEngineer:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center"><b>🎙️ Audio Insight</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p>Speech-to-text transcription engine with timestamp alignment and automated abstractive summarization. Containerized with Docker and powered by OpenAI Whisper and Hugging Face Transformers.</p>
+      <p>Speech-to-text transcription engine with timestamp alignment and automated abstractive summarization. Containerized with Docker and powered by Whisper and Transformers.</p>
       <p><b>Stack:</b> <code>Python</code> <code>FastAPI</code> <code>Whisper</code> <code>Transformers</code> <code>Docker</code></p>
       <p align="center">
         <a href="https://github.com/MSBHOSLE/audio-insight-whisper"><b>View Repository →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center"><b>⚡ DupliSoft</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Rust-BLAKE3-orange?style=flat-square&logo=rust&logoColor=white" />
@@ -81,6 +81,19 @@ class SoftwareEngineer:
       <p><b>Stack:</b> <code>Rust</code> <code>Tauri v2</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS v4</code></p>
       <p align="center">
         <a href="https://github.com/MSBHOSLE/DupliSoft"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><b>🕺 Body Language Detection</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MediaPipe-Pose-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/ML-Random%20Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-Web%20App-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <p>Real-time skeletal landmark tracking and emotion classification (Sad, Stress, Interested, Victory, Offend). Combines computer vision pose estimation with trained supervised ML models.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>MediaPipe</code> <code>OpenCV</code> <code>Scikit-Learn</code> <code>Flask</code></p>
+      <p align="center">
+        <a href="https://github.com/MSBHOSLE/Body-Language-Detection"><b>View Repository →</b></a>
       </p>
     </td>
   </tr>
