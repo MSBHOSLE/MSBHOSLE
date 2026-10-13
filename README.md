@@ -104,26 +104,7 @@ class SoftwareEngineer:
 | **Data & Databases** | SQL, PostgreSQL, Power BI, Tableau, Pandas, NumPy |
 | **DevOps & Tools** | Docker, Git, GitHub Actions, VS Code, macOS, Linux |
 
----
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MSBHOSLE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Mahesh's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSBHOSLE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSBHOSLE&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
 
 ---
 
