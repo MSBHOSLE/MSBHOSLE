@@ -101,21 +101,21 @@ class SoftwareEngineer:
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,transformers,rust,ts,react,tailwind,docker,git,github,postgres,vscode,linux,apple" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,fastapi,django,flask,postgres,redis,aws,terraform,docker,kubernetes,githubactions,pytorch,huggingface,kafka" alt="Skills and Technologies" />
 </div>
 
 <br/>
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI & NLP** | OpenAI Whisper, Hugging Face Transformers, PyTorch, scikit-learn, TensorFlow, Keras |
-| **Backend & Automation** | Python, FastAPI, REST APIs, Make, n8n, Bash scripting |
-| **Systems & Frontend** | Rust, Tauri v2, React 19, TypeScript, Tailwind CSS, Vite |
-| **Data & Databases** | SQL, PostgreSQL, Power BI, Tableau, Pandas, NumPy |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, VS Code, macOS, Linux |
+| **Software Engineering** | Python, Go, C++, JavaScript, System Design, Distributed Systems |
+| **Cloud & DevOps** | AWS, Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Microservices |
+| **Backend** | FastAPI, Django, Flask, PostgreSQL, Redis, SQLAlchemy |
+| **Data Engineering** | Apache Spark, Kafka, Airflow, dbt, Delta Lake |
+| **AI / ML** | PyTorch, LangChain, LangGraph, HuggingFace, Scikit-Learn, XGBoost, LightGBM, MLOps (MLflow) |
 
 
 
