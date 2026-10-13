@@ -104,7 +104,7 @@ class SoftwareEngineer:
 ### 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,js,fastapi,django,flask,postgres,redis,aws,terraform,docker,kubernetes,githubactions,pytorch,huggingface,kafka" alt="Skills and Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,rust,ts,react,tailwind,vite,tauri,fastapi,django,flask,postgres,redis,aws,terraform,docker,kubernetes,githubactions,pytorch,huggingface,kafka" alt="Skills and Technologies" />
 </div>
 
 <br/>
@@ -112,10 +112,15 @@ class SoftwareEngineer:
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Software Engineering** | Python, Go, C++, JavaScript, System Design, Distributed Systems |
-| **Cloud & DevOps** | AWS, Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Microservices |
-| **Backend** | FastAPI, Django, Flask, PostgreSQL, Redis, SQLAlchemy |
-| **Data Engineering** | Apache Spark, Kafka, Airflow, dbt, Delta Lake |
 | **AI / ML** | PyTorch, LangChain, LangGraph, HuggingFace, Scikit-Learn, XGBoost, LightGBM, MLOps (MLflow) |
+| **AI & NLP** | OpenAI Whisper, Hugging Face Transformers, PyTorch, scikit-learn, TensorFlow, Keras |
+| **Backend** | FastAPI, Django, Flask, PostgreSQL, Redis, SQLAlchemy |
+| **Backend & Automation** | Python, FastAPI, REST APIs, Make, n8n, Bash scripting |
+| **Systems & Frontend** | Rust, Tauri v2, React 19, TypeScript, Tailwind CSS, Vite |
+| **Data Engineering** | Apache Spark, Kafka, Airflow, dbt, Delta Lake |
+| **Data & Databases** | SQL, PostgreSQL, Power BI, Tableau, Pandas, NumPy |
+| **Cloud & DevOps** | AWS, Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Microservices |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, VS Code, macOS, Linux |
 
 
 
