@@ -128,6 +128,22 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 
 ---
 
+### 🩺 Trustworthy, Safe & Multimodal Medical AI Research
+
+A research-driven suite of 7 projects focused on clinical uncertainty quantification, hallucination auditing, causal inference, and multimodal cancer imaging:
+
+| Project | Focus Area | Key Methodologies |
+| :--- | :--- | :--- |
+| **[Trustworthy Breast Imaging](https://github.com/MSBHOSLE/Trustworthy-AI-for-Early-Breast-Cancer-Imaging)** | Inverse Problems & Hallucination | Physics-informed reconstruction, epistemic audit |
+| **[Clinical Image Trust & Triage](https://github.com/MSBHOSLE/AI-That-Knows-When-a-Medical-Image-Cannot-Be-Trusted)** | Selective Prediction & OOD | Monte Carlo Dropout, energy scores, Mahalanobis distance |
+| **[Label-Efficient Medical AI](https://github.com/MSBHOSLE/Medical-AI-That-Learns-From-Fewer-Annotated-Images)** | Semi-Supervised Learning | FixMatch, consistency regularization, transfer learning |
+| **[Multimodal Oncology AI](https://github.com/MSBHOSLE/Multimodal-Medical-AI-Scans-and-Clinical-Text)** | Vision-Language Pathology | Cross-modal alignment, missing modality imputation |
+| **[Reliable Image Segmentation](https://github.com/MSBHOSLE/Reliable-Medical-Image-Segmentation-With-Confidence-Maps)** | Endoscopic AI Reliability | Pixel-level epistemic & aleatoric confidence maps |
+| **[Causal Treatment Decisions](https://github.com/MSBHOSLE/AI-for-More-Personalized-Treatment-Decisions)** | Precision Medicine & CATE | X-Learner, Doubly Robust (AIPW), sensitivity bounds |
+| **[Spatial Cancer Detection](https://github.com/MSBHOSLE/Uncertainty-Aware-Spatial-Cancer-Detection)** | Tumor Microenvironment (TME) | PanNuke spatial cell segmentation, feature OOD detection |
+
+---
+
 ### 🛠️ Skills & Technologies
 
 <div align="center">
