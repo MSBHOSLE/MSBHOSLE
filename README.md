@@ -132,15 +132,15 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 
 A research-driven suite of 7 projects focused on clinical uncertainty quantification, hallucination auditing, causal inference, and multimodal cancer imaging:
 
-| Project | Focus Area | Key Methodologies |
+| Project | Description | Methodologies & Tech Stack |
 | :--- | :--- | :--- |
-| **[Trustworthy Breast Imaging](https://github.com/MSBHOSLE/Trustworthy-AI-for-Early-Breast-Cancer-Imaging)** | Inverse Problems & Hallucination | Physics-informed reconstruction, epistemic audit |
-| **[Clinical Image Trust & Triage](https://github.com/MSBHOSLE/AI-That-Knows-When-a-Medical-Image-Cannot-Be-Trusted)** | Selective Prediction & OOD | Monte Carlo Dropout, energy scores, Mahalanobis distance |
-| **[Label-Efficient Medical AI](https://github.com/MSBHOSLE/Medical-AI-That-Learns-From-Fewer-Annotated-Images)** | Semi-Supervised Learning | FixMatch, consistency regularization, transfer learning |
-| **[Multimodal Oncology AI](https://github.com/MSBHOSLE/Multimodal-Medical-AI-Scans-and-Clinical-Text)** | Vision-Language Pathology | Cross-modal alignment, missing modality imputation |
-| **[Reliable Image Segmentation](https://github.com/MSBHOSLE/Reliable-Medical-Image-Segmentation-With-Confidence-Maps)** | Endoscopic AI Reliability | Pixel-level epistemic & aleatoric confidence maps |
-| **[Causal Treatment Decisions](https://github.com/MSBHOSLE/AI-for-More-Personalized-Treatment-Decisions)** | Precision Medicine & CATE | X-Learner, Doubly Robust (AIPW), sensitivity bounds |
-| **[Spatial Cancer Detection](https://github.com/MSBHOSLE/Uncertainty-Aware-Spatial-Cancer-Detection)** | Tumor Microenvironment (TME) | PanNuke spatial cell segmentation, feature OOD detection |
+| 🔬 **[Trustworthy Breast Imaging](https://github.com/MSBHOSLE/Trustworthy-AI-for-Early-Breast-Cancer-Imaging)** | Physics-informed inverse reconstruction & epistemic safety audits to detect AI hallucinations in early breast cancer scans. | Physics-ML, Epistemic Auditing, PyTorch, SciPy |
+| 🛡️ **[Clinical Image Trust & Triage](https://github.com/MSBHOSLE/AI-That-Knows-When-a-Medical-Image-Cannot-Be-Trusted)** | Automated clinical abstention engine detecting corrupted, out-of-distribution, or untrustworthy scans prior to diagnosis. | Monte Carlo Dropout, Energy Scores, Mahalanobis Distance, PyTorch |
+| 🧪 **[Label-Efficient Medical AI](https://github.com/MSBHOSLE/Medical-AI-That-Learns-From-Fewer-Annotated-Images)** | Semi-supervised diagnostic classification using FixMatch consistency regularization to train on 90% fewer annotated images. | FixMatch, Weak/Strong Augmentations, Consistency Regularization, PyTorch |
+| 🧬 **[Multimodal Oncology AI](https://github.com/MSBHOSLE/Multimodal-Medical-AI-Scans-and-Clinical-Text)** | Vision-Language representation learning aligning histopathology scans with clinical text, featuring gated missing modality imputation. | InfoNCE, Cross-Modal Contrastive Alignment, Transformers, PyTorch |
+| 🎯 **[Reliable Image Segmentation](https://github.com/MSBHOSLE/Reliable-Medical-Image-Segmentation-With-Confidence-Maps)** | Endoscopic image segmentation generating pixel-wise dual epistemic & aleatoric confidence maps to flag uncertain resection margins. | Heteroscedastic Noise, MCDO, MONAI, PyTorch |
+| ⚖️ **[Causal Treatment Decisions](https://github.com/MSBHOSLE/AI-for-More-Personalized-Treatment-Decisions)** | Heterogeneous treatment effect (CATE) estimation for precision oncology with Rosenbaum sensitivity bounds for unmeasured confounding. | X-Learner, AIPW, Causal Inference, EconML, Scikit-Learn |
+| 🔬 **[Spatial Cancer Detection](https://github.com/MSBHOSLE/Uncertainty-Aware-Spatial-Cancer-Detection)** | Topological cell graph modeling of tumor microenvironments (TME) with feature OOD detection on atypical tumor architecture. | Delaunay Graphs, PanNuke, PyTorch Geometric, Scikit-Learn |
 
 ---
 
