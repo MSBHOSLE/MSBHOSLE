@@ -59,15 +59,19 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 
 ---
 
-### ⚙️ Software Engineering & Distributed Systems
+### 🩺 Trustworthy, Safe & Multimodal Medical AI Research
 
-| Project | Description | Tech Stack |
+A research-driven suite of 7 projects focused on clinical uncertainty quantification, hallucination auditing, causal inference, and multimodal cancer imaging:
+
+| Project | Description | Methodologies & Tech Stack |
 | :--- | :--- | :--- |
-| ⚡ [DupliSoft](https://github.com/MSBHOSLE/DupliSoft) | High-performance, 100% offline native duplicate file finder & visual inspector with SIMD-accelerated BLAKE3 hashing and multi-threaded Rayon execution. | Rust, Tauri v2, React 19, TypeScript, Tailwind CSS v4 |
-| 🔗 [Scalable URL Shortener](https://github.com/MSBHOSLE/scalable-url-shortener) | High-throughput URL shortening service utilizing Base62 encoding and Read-Through caching. | FastAPI, Redis, PostgreSQL |
-| 🔄 [Python Distributed Task Queue](https://github.com/MSBHOSLE/python-distributed-task-queue) | Custom asynchronous task queue built to demonstrate concurrency and message broker fundamentals. | Python asyncio, Redis |
-| 🔐 [API Gateway & Auth Service](https://github.com/MSBHOSLE/api-gateway-auth-service) | Reverse proxy with secure JWT auth and Redis-backed sliding window rate limiting. | FastAPI, Redis, SQLAlchemy |
-| ⚡ [Cloud-Native Order Service](https://github.com/MSBHOSLE/cloud-native-order-service) | Scalable microservice for resilient order processing with complete integration test coverage. | Python, Microservices, Docker |
+| 🔬 **[Trustworthy Breast Imaging](https://github.com/MSBHOSLE/Trustworthy-AI-for-Early-Breast-Cancer-Imaging)** | Physics-informed inverse reconstruction & epistemic safety audits to detect AI hallucinations in early breast cancer scans. | Physics-ML, Epistemic Auditing, PyTorch, SciPy |
+| 🛡️ **[Clinical Image Trust & Triage](https://github.com/MSBHOSLE/AI-That-Knows-When-a-Medical-Image-Cannot-Be-Trusted)** | Automated clinical abstention engine detecting corrupted, out-of-distribution, or untrustworthy scans prior to diagnosis. | Monte Carlo Dropout, Energy Scores, Mahalanobis Distance, PyTorch |
+| 🧪 **[Label-Efficient Medical AI](https://github.com/MSBHOSLE/Medical-AI-That-Learns-From-Fewer-Annotated-Images)** | Semi-supervised diagnostic classification using FixMatch consistency regularization to train on 90% fewer annotated images. | FixMatch, Weak/Strong Augmentations, Consistency Regularization, PyTorch |
+| 🧬 **[Multimodal Oncology AI](https://github.com/MSBHOSLE/Multimodal-Medical-AI-Scans-and-Clinical-Text)** | Vision-Language representation learning aligning histopathology scans with clinical text, featuring gated missing modality imputation. | InfoNCE, Cross-Modal Contrastive Alignment, Transformers, PyTorch |
+| 🎯 **[Reliable Image Segmentation](https://github.com/MSBHOSLE/Reliable-Medical-Image-Segmentation-With-Confidence-Maps)** | Endoscopic image segmentation generating pixel-wise dual epistemic & aleatoric confidence maps to flag uncertain resection margins. | Heteroscedastic Noise, MCDO, MONAI, PyTorch |
+| ⚖️ **[Causal Treatment Decisions](https://github.com/MSBHOSLE/AI-for-More-Personalized-Treatment-Decisions)** | Heterogeneous treatment effect (CATE) estimation for precision oncology with Rosenbaum sensitivity bounds for unmeasured confounding. | X-Learner, AIPW, Causal Inference, EconML, Scikit-Learn |
+| 🔬 **[Spatial Cancer Detection](https://github.com/MSBHOSLE/Uncertainty-Aware-Spatial-Cancer-Detection)** | Topological cell graph modeling of tumor microenvironments (TME) with feature OOD detection on atypical tumor architecture. | Delaunay Graphs, PanNuke, PyTorch Geometric, Scikit-Learn |
 
 ---
 
@@ -87,6 +91,18 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 
 ---
 
+### ⚙️ Software Engineering & Distributed Systems
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⚡ [DupliSoft](https://github.com/MSBHOSLE/DupliSoft) | High-performance, 100% offline native duplicate file finder & visual inspector with SIMD-accelerated BLAKE3 hashing and multi-threaded Rayon execution. | Rust, Tauri v2, React 19, TypeScript, Tailwind CSS v4 |
+| 🔗 [Scalable URL Shortener](https://github.com/MSBHOSLE/scalable-url-shortener) | High-throughput URL shortening service utilizing Base62 encoding and Read-Through caching. | FastAPI, Redis, PostgreSQL |
+| 🔄 [Python Distributed Task Queue](https://github.com/MSBHOSLE/python-distributed-task-queue) | Custom asynchronous task queue built to demonstrate concurrency and message broker fundamentals. | Python asyncio, Redis |
+| 🔐 [API Gateway & Auth Service](https://github.com/MSBHOSLE/api-gateway-auth-service) | Reverse proxy with secure JWT auth and Redis-backed sliding window rate limiting. | FastAPI, Redis, SQLAlchemy |
+| ⚡ [Cloud-Native Order Service](https://github.com/MSBHOSLE/cloud-native-order-service) | Scalable microservice for resilient order processing with complete integration test coverage. | Python, Microservices, Docker |
+
+---
+
 ### ☁️ Cloud Engineering & DevOps
 
 | Project | Description | Tech Stack |
@@ -94,6 +110,16 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 | 🏗️ [AWS Cloud Architecture](https://github.com/MSBHOSLE/terraform-aws-cloud-architecture) | Infrastructure as Code for a highly available, scalable 3-tier web architecture. | Terraform, AWS, GitHub Actions |
 | 🌊 [Spark Data Lake Pipeline](https://github.com/MSBHOSLE/spark-data-lake-pipeline) | PySpark ETL implementing Bronze/Silver/Gold medallion architecture. | PySpark, Delta Lake |
 | 🏗️ [Airflow dbt Pipeline](https://github.com/MSBHOSLE/airflow-dbt-pipeline) | Automated data warehouse transformations with CI/CD quality checks. | Apache Airflow, dbt |
+
+---
+
+### 📈 Data Science & Analytics
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛒 [E-Commerce SQL Analytics](https://github.com/MSBHOSLE/ecommerce-analytics-sql) | Advanced PostgreSQL analytics (CTEs, Window Functions) & BI dashboard. | SQL, Python, Streamlit |
+| 👥 [Customer Churn Predictor](https://github.com/MSBHOSLE/customer-churn-predictor) | ML pipeline predicting SaaS churn with SHAP explainability. | XGBoost, Plotly, Streamlit |
+| 📦 [Supply Chain Optimizer](https://github.com/MSBHOSLE/supply-chain-optimizer) | Demand forecasting & inventory optimization (EOQ) platform. | Gradient Boosting, Prophet |
 
 ---
 
@@ -118,33 +144,7 @@ Welcome to my portfolio! Here are my most impactful projects categorized by tech
 
 ---
 
-### 📈 Data Science & Analytics
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛒 [E-Commerce SQL Analytics](https://github.com/MSBHOSLE/ecommerce-analytics-sql) | Advanced PostgreSQL analytics (CTEs, Window Functions) & BI dashboard. | SQL, Python, Streamlit |
-| 👥 [Customer Churn Predictor](https://github.com/MSBHOSLE/customer-churn-predictor) | ML pipeline predicting SaaS churn with SHAP explainability. | XGBoost, Plotly, Streamlit |
-| 📦 [Supply Chain Optimizer](https://github.com/MSBHOSLE/supply-chain-optimizer) | Demand forecasting & inventory optimization (EOQ) platform. | Gradient Boosting, Prophet |
-
----
-
-### 🩺 Trustworthy, Safe & Multimodal Medical AI Research
-
-A research-driven suite of 7 projects focused on clinical uncertainty quantification, hallucination auditing, causal inference, and multimodal cancer imaging:
-
-| Project | Description | Methodologies & Tech Stack |
-| :--- | :--- | :--- |
-| 🔬 **[Trustworthy Breast Imaging](https://github.com/MSBHOSLE/Trustworthy-AI-for-Early-Breast-Cancer-Imaging)** | Physics-informed inverse reconstruction & epistemic safety audits to detect AI hallucinations in early breast cancer scans. | Physics-ML, Epistemic Auditing, PyTorch, SciPy |
-| 🛡️ **[Clinical Image Trust & Triage](https://github.com/MSBHOSLE/AI-That-Knows-When-a-Medical-Image-Cannot-Be-Trusted)** | Automated clinical abstention engine detecting corrupted, out-of-distribution, or untrustworthy scans prior to diagnosis. | Monte Carlo Dropout, Energy Scores, Mahalanobis Distance, PyTorch |
-| 🧪 **[Label-Efficient Medical AI](https://github.com/MSBHOSLE/Medical-AI-That-Learns-From-Fewer-Annotated-Images)** | Semi-supervised diagnostic classification using FixMatch consistency regularization to train on 90% fewer annotated images. | FixMatch, Weak/Strong Augmentations, Consistency Regularization, PyTorch |
-| 🧬 **[Multimodal Oncology AI](https://github.com/MSBHOSLE/Multimodal-Medical-AI-Scans-and-Clinical-Text)** | Vision-Language representation learning aligning histopathology scans with clinical text, featuring gated missing modality imputation. | InfoNCE, Cross-Modal Contrastive Alignment, Transformers, PyTorch |
-| 🎯 **[Reliable Image Segmentation](https://github.com/MSBHOSLE/Reliable-Medical-Image-Segmentation-With-Confidence-Maps)** | Endoscopic image segmentation generating pixel-wise dual epistemic & aleatoric confidence maps to flag uncertain resection margins. | Heteroscedastic Noise, MCDO, MONAI, PyTorch |
-| ⚖️ **[Causal Treatment Decisions](https://github.com/MSBHOSLE/AI-for-More-Personalized-Treatment-Decisions)** | Heterogeneous treatment effect (CATE) estimation for precision oncology with Rosenbaum sensitivity bounds for unmeasured confounding. | X-Learner, AIPW, Causal Inference, EconML, Scikit-Learn |
-| 🔬 **[Spatial Cancer Detection](https://github.com/MSBHOSLE/Uncertainty-Aware-Spatial-Cancer-Detection)** | Topological cell graph modeling of tumor microenvironments (TME) with feature OOD detection on atypical tumor architecture. | Delaunay Graphs, PanNuke, PyTorch Geometric, Scikit-Learn |
-
----
-
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,go,cpp,rust,ts,react,tailwind,vite,tauri,fastapi,django,flask,postgres,redis,aws,terraform,docker,kubernetes,githubactions,pytorch,huggingface,kafka" alt="Skills and Technologies" />
@@ -164,7 +164,7 @@ A research-driven suite of 7 projects focused on clinical uncertainty quantifica
 
 ---
 
-### 📬 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -185,3 +185,4 @@ A research-driven suite of 7 projects focused on clinical uncertainty quantifica
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%" alt="Footer" />
 </div>
+
