@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Mahesh%20Sanjayrao%20Bhosle&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Data%20%26%20Computer%20Science%20%7C%20Heidelberg%20University&descFontSize=19&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Mahesh%20Sanjayrao%20Bhosle&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Data%20%26amp%3B%20Computer%20Science%20%7C%20Heidelberg%20University&descFontSize=19&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/MSBHOSLE">
